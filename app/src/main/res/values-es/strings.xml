@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple generador de contraseñas</string>
+    <string name="btn_copy">Copiar al portapapeles</string>
+    <string name="btn_generate">Generar</string>
+    <string name="copied_password">Contraseña copiada</string>
+    <string name="copy_success">Copiado.</string>
+    <string name="lbl_generation_options">Opciones de generación</string>
+    <string name="lbl_pass_length">Longitud</string>
+    <string name="lbl_specials">Caracteres especiales</string>
+    <string name="lbl_use_these_chars">Utilizar estos caracteres</string>
+    <string name="no_chars_selected">Sin caracteres seleccionados</string>
+    <string name="pass_length_invalid">La longitud de la contraseña debe estar 4 y 99.</string>
+    <string name="txt_passbox">Contraseña generada</string>
+</resources>

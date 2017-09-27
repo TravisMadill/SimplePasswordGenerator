@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Générateur des mots de passe simple</string>
+    <string name="btn_copy">Copier au presse-papier</string>
+    <string name="btn_generate">Générer</string>
+    <string name="copied_password">Mot de passe copié</string>
+    <string name="copy_success">Copié.</string>
+    <string name="lbl_generation_options">Options de génération</string>
+    <string name="lbl_pass_length">Longueur</string>
+    <string name="lbl_specials">Caractères spécials</string>
+    <string name="lbl_use_these_chars">Utiliser ces caractères</string>
+    <string name="no_chars_selected">Aucune caratères sélectionnés.</string>
+    <string name="pass_length_invalid">La longueur doit être entre 4 à 99.</string>
+    <string name="txt_passbox">Mot de passe généré</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Simple Password Generator</string>
+    <string name="txt_passbox">Generated password</string>
+    <string name="lbl_generation_options">Generation options</string>
+    <string name="lbl_pass_length">Length</string>
+    <string name="pass_length" translatable="false">12</string>
+    <string name="lbl_nums" translatable="false">0-9</string>
+    <string name="lbl_caps" translatable="false">A-Z</string>
+    <string name="lbl_lowers" translatable="false">a-z</string>
+    <string name="lbl_specials">Special characters</string>
+    <string name="lbl_use_these_chars">Characters to use</string>
+    <string name="special_characters" translatable="false"><![CDATA[*!@$#?&^]]></string>
+    <string name="btn_generate">Generate</string>
+    <string name="btn_copy">Copy to clipboard</string>
+    <string name="copy_success">Copied.</string>
+    <string name="pass_length_invalid">Password length must be 4-99</string>
+    <string name="no_chars_selected">No character types selected.</string>
+    <string name="copied_password">Copied password</string>
+</resources>
